@@ -16,4 +16,4 @@
 
 **Стек:** 
 
-*pandas, matplotlib, seaborn, numpy, scipy, math*
+*pandas, matplotlib, seaborn, numpy, scipy.stats, math*
