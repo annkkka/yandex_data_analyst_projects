@@ -7,4 +7,4 @@
 
 **Стек:**
 
-*pandas, matplotlib, numpy, scipy.stats, datetime, math, Mystem, Counter, matplotlib, plotly, sqlalchemy*
+*pandas, matplotlib, numpy, scipy.stats, datetime, math, Mystem, Counter, matplotlib, plotly, sqlalchemy, Tableau*
