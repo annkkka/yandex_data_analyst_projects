@@ -14,4 +14,4 @@
 
 **Стек:**
 
-*pandas, matplotlib, pymystem3, collections*
+*pandas, matplotlib, Mystem, collections*
